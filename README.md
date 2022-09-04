@@ -51,3 +51,4 @@ int main(){
   return 0;
 }
 ```
+The following [guide](https://www.learncpp.com/cpp-tutorial/a2-using-libraries-with-visual-studio-2005-express/) is recommended when installing this library on Visual Studio, for linux you shouldd do all the steps you do to set ```.a``` file.
