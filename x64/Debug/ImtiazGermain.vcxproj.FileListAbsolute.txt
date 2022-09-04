@@ -1,0 +1,2 @@
+C:\Users\Aitzaz Imtiaz\source\repos\ImtiazGermain\x64\Debug\ImtiazGermain.lib
+C:\Users\Aitzaz Imtiaz\OneDrive\Documents\ImtiazGermain\x64\Debug\ImtiazGermain.lib
