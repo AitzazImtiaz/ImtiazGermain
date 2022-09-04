@@ -18,7 +18,7 @@ int main(){
   unsigned long long number;
   number = 11;
   if (ImtiazGermain::Germain::PrimeCheck(number) == true and ImtiazGermain::Germain::IsGermain(number) == true){
-    cout << "A Imtiaz Germain prime!";
+    cout << "A Germain prime!";
   } else{
     cout << "No!";
   }
