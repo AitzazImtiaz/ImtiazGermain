@@ -1,4 +1,4 @@
-// Declaration of fuctioons here
+// Declaration of fuctions here
 #pragma once
 
 namespace ImtiazGermain{
