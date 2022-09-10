@@ -1,5 +1,5 @@
 <p align="center"><img src="https://img.shields.io/badge/IMTIAZ%20-GERMAIN-blue?style=for-the-badge&logo=appveyor" height="50"></p>
-<p align="center"><img src="https://img.shields.io/github/issues/AitzazImtiaz/ImtiazGermain?style=social&logo=appveyor"><img src="https://img.shields.io/github/forks/AitzazImtiaz/ImtiazGermain?style=social&logo=appveyor"> <img src="https://img.shields.io/github/stars/AitzazImtiaz/ImtiazGermain?style=social&logo=appveyor"><img src="https://img.shields.io/github/license/AitzazImtiaz/ImtiazGermain?style=social&logo=appveyor"> <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FAitzazImtiaz%2FImttiazGermain"></p>
+<p align="center"><img src="https://img.shields.io/github/issues/AitzazImtiaz/ImtiazGermain?style=social&logo=appveyor"><img src="https://img.shields.io/github/forks/AitzazImtiaz/ImtiazGermain?style=social&logo=appveyor"> <img src="https://img.shields.io/github/stars/AitzazImtiaz/ImtiazGermain?style=social&logo=appveyor"><img src="https://img.shields.io/github/license/AitzazImtiaz/ImtiazGermain?style=social&logo=appveyor"> <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FAitzazImtiaz%2FImtiazGermain"></p>
 
 <img align="right" src="https://github.com/AitzazImtiaz/Public-Images/blob/main/Untitled%20design.png" width="350" height="250">
 
